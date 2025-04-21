@@ -1,0 +1,31 @@
+{
+  "name": "nexus-task-manager",
+  "version": "1.0.0",
+  "description": "NEXUS - A premium task management web application",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "dev": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/nexus-task-manager.git"
+  },
+  "keywords": [
+    "task-manager",
+    "todo-list",
+    "productivity",
+    "habit-tracker",
+    "time-management",
+    "three.js"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/nexus-task-manager/issues"
+  },
+  "homepage": "https://github.com/yourusername/nexus-task-manager#readme",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+} 
