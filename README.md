@@ -1,6 +1,6 @@
 # NEXUS - Premium Task Management Web App
 
-![NEXUS](https://i.imgur.com/yHi9Dgj.png)
+
 
 ## Overview
 
